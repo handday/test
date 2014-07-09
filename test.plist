@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://nj.baidupcs.com/file/1e9a92eb0f93a83d7549ab11e01a6982?fid=1278424539-250528-607810651998993&time=1404818157&sign=FDTAXER-DCb740ccc5511e5e8fedcff06b081203-J8PwdWTrmZcr2UEbqt83F2CmxJE%3D&to=nb&fm=N,B,T,t&newver=1&expires=1404818757&rt=sh&r=476445103&logid=4241049387&sh=1&vuk=1278424539&fn=crmZztx.ipa</string>
+					<string>http://192.168.114.69:8000/crmZztx.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
