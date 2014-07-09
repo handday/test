@@ -27,7 +27,7 @@
 
                    <key>url</key>
 
-                   <string>http://10.0.0.23:8000/srp.png</string>
+                   <string>http://192.168.1.12:8000/test.png</string>
 
                </dict>
                <dict>
@@ -44,7 +44,7 @@
 
                    <key>url</key>
 
-                   <string>http://10.0.0.23:8000/iTunesArtwork.png</string>
+                   <string>http://192.168.1.12:8000/512.png</string>
 
                </dict>
             </array>
