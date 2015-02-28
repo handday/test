@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://cd-yun-ftn.weiyun.com/ftn_handler/c833e738dc5d3d566fd8ae9a22dcfbf95575423b5c6d52941935d345acb6cc29fa420bd5610800291215accb3801ffdf9fdbff3fce197b2f4240f2e6b289e07c/?fname=zztxTest.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.zztx.CRM</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>指掌天下</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
